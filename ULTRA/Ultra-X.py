@@ -41,5 +41,8 @@ GROUP = "[SUPPORT GROUP](https://t.me/ULTRAXCHAT)"
 #itna test h aur aage krte h
 #test successful raha ab aage 
 ALIVE = "υℓтяα χ вσт ιѕ ση 🔥 ƒιяє 🔥" 
-OP = " нєℓℓσ мαѕтєя му ηαмє ιѕ υℓтяα χ вσт ι αм тнє вєѕт υѕєявσт 💝"
+OP = " Hᴇʟʟᴏ sɪʀ👋 ᴍʏsᴇʟғ  υℓтяα χ вσт, ғᴏʀ @KisaraPesanjithPerera Pʀᴏᴛᴇᴄᴛɪᴏɴ 
+Hᴇʏ ᴛʜᴇʀᴇ!! I ᴀɴᴅ I'ᴍ ʜᴇʀᴇ ᴛᴏ Pʀᴏᴛᴇᴄᴛ @KisaraPesanjithPerera
+Dᴏɴ'ᴛ Uɴᴅᴇʀ Esᴛɪᴍᴀᴛᴇ ᴍᴇ🔥
+Mʏ Mᴀsᴛᴇʀ @KisaraPesanjithPerera  ɪs ʙᴜsʏ ʀɪɢʜᴛ ɴᴏᴡ !!"
 EMOJI = "🔥"
